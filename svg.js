@@ -1,5 +1,10 @@
-//var circle = document.getElementById("circle");
-//circle.setAttribute("fill", "green");
+/*
+Anish Shenoy
+SoftDev2 pd07
+K07 -- Connect The Dots
+2018-02-28
+*/
+
 var container = document.getElementById("vimage");
 var clearButton = document.getElementById("clear");
 var first = true;
